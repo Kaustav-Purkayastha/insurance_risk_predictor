@@ -12,7 +12,7 @@ Public insurance dataset: [insurance.csv](https://raw.githubusercontent.com/sted
 ## Folder Structure
 - `data/` : raw CSV dataset  
 - `outputs/figures/` : charts and plots (PNG)  
-- `outputs/models/` : saved ML model (`insurance_premium_model.joblib`)  
+- `outputs/models/` : saved ML model (`insurance_model.pkl`)  
 
 ## How to Run
 1. Open Jupyter Notebook in this folder.  
@@ -21,3 +21,4 @@ Public insurance dataset: [insurance.csv](https://raw.githubusercontent.com/sted
 
 ## License
 MIT
+
