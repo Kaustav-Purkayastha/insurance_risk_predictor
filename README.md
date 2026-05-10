@@ -98,7 +98,7 @@ insurance_risk_predictor/
 │   └── models/
 │       └── insurance_model.pkl     # Serialised trained model
 │
-├── 01_insurance_risk_predictor.ipynb   # Main analysis notebook
+├── 01_insurance_claim_analysis.ipynb   # Main analysis notebook
 ├── .gitignore
 ├── LICENSE
 └── README.md
@@ -264,7 +264,7 @@ pip install -r requirements.txt
 
 3. **Open the main notebook**
 
-   In the Jupyter interface, open `01_insurance_risk_predictor.ipynb`.
+   In the Jupyter interface, open `01_insurance_claim_analysis.ipynb`.
 
 4. **Run all cells top to bottom**
 
