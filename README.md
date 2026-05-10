@@ -241,7 +241,7 @@ Make sure you have Python 3.x installed with the following packages:
 pip install pandas numpy matplotlib seaborn scikit-learn joblib requests
 ```
 
-Or install everything at once (if a requirements file is present):
+Or install everything at once:
 
 ```bash
 pip install -r requirements.txt
