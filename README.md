@@ -81,7 +81,7 @@ The result is a reproducible, notebook-driven analysis that surfaces actionable 
 ## Project Structure
 
 ```
-insurance_claim_analysis/
+insurance_risk_predictor/
 │
 ├── data/
 │   └── insurance.csv               # Raw dataset (auto-downloaded on first run)
@@ -98,7 +98,7 @@ insurance_claim_analysis/
 │   └── models/
 │       └── insurance_model.pkl     # Serialised trained model
 │
-├── 01_insurance_claim_analysis.ipynb   # Main analysis notebook
+├── 01_insurance_risk_predictor.ipynb   # Main analysis notebook
 ├── .gitignore
 ├── LICENSE
 └── README.md
@@ -252,8 +252,8 @@ pip install -r requirements.txt
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Kaustav-Purkayastha/insurance_claim_analysis.git
-   cd insurance_claim_analysis
+   git clone https://github.com/Kaustav-Purkayastha/insurance_risk_predictor.git
+   cd insurance_risk_predictor
    ```
 
 2. **Launch Jupyter Notebook**
@@ -264,7 +264,7 @@ pip install -r requirements.txt
 
 3. **Open the main notebook**
 
-   In the Jupyter interface, open `01_insurance_claim_analysis.ipynb`.
+   In the Jupyter interface, open `01_insurance_risk_predictor.ipynb`.
 
 4. **Run all cells top to bottom**
 
